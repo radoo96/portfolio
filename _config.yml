@@ -1,1 +1,42 @@
+title: "Portfolio"
+description: "Domowe projekty IT, automatyzacje, mini-aplikacje i inne eksperymenty"
+author: "Radosław Szydziak"
+email: "radekszydziak@gmail.com"
+baseurl: "" # zostaw puste dla użytkownika.github.io
+url: "https://radoo96.github.io" # zmień na swój prawdziwy adres
+github_username: "radoo96" # Twój nick na GitHubie
+
+theme: minima # lub np. jekyll-theme-slate, cayman itp.
+
+# Sekcje strony (jeśli tworzysz odpowiednie pliki .md)
+navigation:
+  - title: "Strona główna"
+    url: "/"
+  - title: "Projekty"
+    url: "/projekty"
+  - title: "O mnie"
+    url: "/o-mnie"
+  - title: "Kontakt"
+    url: "/kontakt"
+
+# Social media / linki kontaktowe (jeśli używasz szablonu z obsługą)
+social_links:
+  - name: "GitHub"
+    url: "https://github.com/twojanick"
+  - name: "Email"
+    url: "mailto:radek@example.com"
+
+# Dodatki Jekyllowe
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# (opcjonalnie) Statystyki
+google_analytics: UA-XXXXXXXXX-X # jeśli masz
+
+# Lokalizacja (jeśli potrzebujesz)
+lang: "pl"
 
