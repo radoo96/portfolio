@@ -1,3 +1,6 @@
-title: Portfolio – Radosław Szydziak
+title: "Portfolio IT – Radosław Szydziak"
+email: radoo96@gmail.com
 theme: jekyll-theme-cayman
-description: Moje projekty domowe IT, automatyzacje i mini-aplikacje
+description: >- 
+  Projekty domowe z zakresu IT: Raspberry Pi, Home Assistant, backupy, automatyzacje.
+markdown: kramdown
