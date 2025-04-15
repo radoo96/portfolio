@@ -1,2 +1,2 @@
 # portfolio
-radoo96.github.io/portfolio
+radoo96.github.io
