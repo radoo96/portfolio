@@ -1,6 +1,6 @@
 # 👋 Cześć!
 
-To moje portfolio projektów domowych z zakresu IT:
+To moje portfolio projektów domowych z zakresu:
 
 - 💡 IoT  
 - 🤖 AI i automatyzacje  
