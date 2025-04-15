@@ -1,9 +1,15 @@
+---
+layout: default
+title: Strona główna
+---
+
 # Cześć! 👋
 
-To moje portfolio projektów IT:
-- Raspberry Pi
-- Automatyzacje z Home Assistant
-- Skrypty bash i Python
-- Serwer domowy i własne rozwiązania
+To moje portfolio projektów domowych IT:
+
+- 💡 Raspberry Pi
+- 🛠️ Home Assistant i automatyzacje
+- 💾 Backupy i serwery
+- 🧠 Skrypty i małe aplikacje
 
 📫 Kontakt: radoo96@gmail.com
