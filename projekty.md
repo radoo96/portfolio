@@ -3,10 +3,11 @@ layout: default
 title: Projekty
 ---
 
-# 🛠️ Moje Projekty
+# 🛠️ Projekty
 
-- **Domowa automatyka** – Raspberry Pi + ESPHome
-- **Backupy serwerów** – Rsync + monitorowanie
-- **CLI Tools** – mini-apki w Bash / Python
+- **ESP32 + Zigbee** – monitorowanie czujników w domu
+- **Backupy Raspberry Pi** – rsync, cron, remote storage
+- **Grafana + Prometheus** – dashboardy do domowego serwera
+- **Mini CLI** – narzędzia w Bashu i Pythonie
 
-[← Wróć do strony głównej](index.html)
+[← Wróć](index.md)
