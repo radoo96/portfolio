@@ -7,10 +7,12 @@ title: Strona główna
 
 To moje portfolio projektów domowych z zakresu IT:
 
-- 💡 Raspberry Pi  
-- 🛠️ Home Assistant i automatyzacje  
-- 💾 Backupy i serwery  
-- 🧠 Skrypty i mini-aplikacje  
+- 💡 IoT
+- 🛠️ AI i automatyzacje  
+- 💾 Administracja
+- 🧠 Skrypty i mini-aplikacje
+- Cybersecurity
+- Cloud
 
 [Zobacz projekty »](projekty.md)  
 [Kontakt »](kontakt.md)
