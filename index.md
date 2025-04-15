@@ -3,8 +3,14 @@ layout: default
 title: Strona główna
 ---
 
-# Witaj!
+# 👋 Cześć!
 
-Cześć, jestem Radosław. Zajmuję się projektami IT w domu: Raspberry Pi, automatyzacje, backupy, mini-aplikacje...
+To moje portfolio projektów domowych z zakresu IT:
 
-[Napisz do mnie](kontakt.html) · [Zobacz projekty](projekty.html)
+- 💡 Raspberry Pi  
+- 🛠️ Home Assistant i automatyzacje  
+- 💾 Backupy i serwery  
+- 🧠 Skrypty i mini-aplikacje  
+
+[Zobacz projekty »](projekty.md)  
+[Kontakt »](kontakt.md)
