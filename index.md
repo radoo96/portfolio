@@ -11,9 +11,6 @@ To moje portfolio projektów domowych z zakresu IT:
 
 ---
 
-## 📂 Nawigacja
-
-- 📁 [Zobacz projekty »](#projekty)
 - 📝 [Blog »](https://twoj-blog.pl)
 
 ---
